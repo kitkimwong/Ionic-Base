@@ -7,7 +7,7 @@
 ## Installation
 
 ```bash
-npm install Ionic-Base --save
+npm install
 ```
 
 ## Requirements & Notes
@@ -29,7 +29,7 @@ npm install Ionic-Base --save
 
 ## Author
 
-[Patrick McDonald](https://patrickmcd.com) ([Github](https://github.com/kimwong) / [Facebook](https://www.feacebook.com/f))
+[Kim Wong](https://patrickmcd.com) ([Github](https://github.com/kimwong) / [Facebook](https://www.feacebook.com/f))
 
 ## Licence
 
