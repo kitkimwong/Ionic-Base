@@ -12,8 +12,8 @@ npm install
 
 ## Tech points & Notes
 1. i18n (mult-langulage)
-2. Ionic Lazy-loading
-3. mage Lazy loading
+2. Ionic Lazy-loading Page
+3. Image Lazy loading
 4. http get request (GIF)
 5. InfiniteScroll to add data to list 
 6. Refresher to refresh data
