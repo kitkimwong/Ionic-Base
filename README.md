@@ -1,6 +1,6 @@
 # Ionic-Base
 
-***Ionic-Base*** is an Ionic App that included the base ionic-develop tech.
+***Ionic-Base*** is a super start app about Ionic App that included the base ionic-develop tech.
 
 ***NOTE:*** This was built alongside 3.3 of Ionic.
 
@@ -10,8 +10,19 @@
 npm install
 ```
 
-## Requirements & Notes
-
+## Tech points & Notes
+1. i18n (mult-langulage)
+2. Ionic Lazy-loading
+3. mage Lazy loading
+4. http get request (GIF)
+5. InfiniteScroll to add data to list 
+6. Refresher to refresh data
+7. Search http function to refresh data 
+8. Parent and childs event emit
+9. Hold event for a list ion-item
+10. Ionic storage
+11. Custom modal animation
+12. ...
 
 ## TODO
 
