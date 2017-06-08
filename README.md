@@ -20,9 +20,15 @@ npm install
 7. Search http function to refresh data 
 8. Parent and childs event emit
 9. Hold event for a list ion-item
-10. Ionic storage
+10. Ionic storage usage
 11. Custom modal animation
-12. ...
+12. Shinking header 
+13. Shinking image under header
+14. Chat room template
+15. Carema 
+16. Download image to local & gallery 
+17. Iframe for a ionic page
+18. ......
 
 ## TODO
 
