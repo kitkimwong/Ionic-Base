@@ -18,7 +18,7 @@ npm install
 
 ## Author
 
-[Kim Wong](https://kimwongzzzzz.com) ([Github](https://github.com/kimwong) / [Facebook](https://www.feacebook.com/f))
+[Kim Wong](https://kimwongzzzzz.com) ([Github](https://github.com/kitkimwong) / [Facebook](https://www.feacebook.com/f))
 
 ## Licence
 
